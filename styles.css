@@ -1,5 +1,4 @@
 
-/* Your CSS Code here. */
 header {
     background-color: #333;
     color: #fff;
@@ -24,6 +23,10 @@ main {
 }
 section {
     margin: 1rem 0;
+}
+summary {
+    font-weight: bold;
+    font-size: 1.1rem;
 }
 aside {
     background-color: #f9f9f9;
